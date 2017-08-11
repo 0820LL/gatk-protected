@@ -3,7 +3,7 @@ The Genome Analysis Toolkit
 See http://www.broadinstitute.org/gatk/
 
 
-Typeing the following command to compile the source code
+Typing the following command to compile the source code
 
 $ sh ant-bridge.sh
 
